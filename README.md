@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @manlikedonald
-- 👀 I’m interested in html, css, javascript, jquery, bootstrap and react
-- 🌱 I’m currently learning redux and nextjs
-- 💞️ I’m looking to collaborate on frontend works
+- 👀 I’m interested in HTML, CSS, JavaScript, JQuery, BootStrap and React
+- 🌱 I’m currently learning Redux and Nextjs
+- 💞️ I’m looking to collaborate on anything involving frontend development
 - 📫 I can be reached at ugobudedonald@gmail.com or +2349068499573
 
 <!---
